@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Shell</title>
-    <link>https://backup.lshell.com/</link>
+    <link>//backup.lshell.com/</link>
     <description>Recent content on Linux Shell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2019 10:59:13 +0800</lastBuildDate>
     
-	<atom:link href="https://backup.lshell.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//backup.lshell.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://backup.lshell.com/life/hello-world/</link>
+      <link>//backup.lshell.com/life/hello-world/</link>
       <pubDate>Fri, 06 Dec 2019 10:59:13 +0800</pubDate>
       
-      <guid>https://backup.lshell.com/life/hello-world/</guid>
+      <guid>//backup.lshell.com/life/hello-world/</guid>
       <description>Hello world！
 This is my blog, build by Hugo and runing in Github Pages.</description>
     </item>
